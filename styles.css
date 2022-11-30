@@ -1,0 +1,21 @@
+.box{
+    margin-top: 25%;
+    margin-left: 40%;
+    background-color:darkgray;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    color:black;
+}
+.box input[type="text"],.box input[type="password"]
+{
+  display: block;
+  margin: 20px;
+  text-align: center;
+  border: solid burlywood;
+  padding: 14px 10px;
+  width:220px;
+  color:black;
+  border-radius: 25%;
+}
